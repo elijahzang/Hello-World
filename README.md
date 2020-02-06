@@ -1,2 +1,3 @@
 # Hello-World
-I'm about to create my first repository.
+Hi,
+I'm Charles and I like everything about data sciences
